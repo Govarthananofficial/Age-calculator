@@ -82,7 +82,7 @@ input[type="button"] {
     font-size: 16px;
 }
 input[type="button"]:hover {
-    background-color: #806be6;
+    background-color: #532d79;
 }
 #age {
     display: flex;
